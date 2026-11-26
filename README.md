@@ -8,11 +8,11 @@ O **Máfia da Sorte** é um projeto acadêmico desenvolvido em Python, com o obj
 
 O jogo gera automaticamente uma cartela, realiza sorteios aleatórios de números e verifica se o jogador conseguiu completar uma combinação vencedora.
 
-## 🎯 Objetivo
+## 🎯 Objetivo:
 
 Desenvolver um jogo utilizando os fundamentos da programação Python, colocando em prática conhecimentos adquiridos durante o curso de Análise e Desenvolvimento de Sistemas (ADS).
 
-## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades:
 
 - Geração automática de cartela 5x5.
 - Sorteio aleatório de números de 1 a 75.
