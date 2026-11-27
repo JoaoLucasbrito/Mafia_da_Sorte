@@ -6,6 +6,8 @@ disponiveis = list(range(1, 76))
 
 while disponiveis:
     comando = input("\nPressione ENTER para sortear (ou digite 'sair'): ").strip().lower()
+    
+
     if comando == "sair":
         break
 
